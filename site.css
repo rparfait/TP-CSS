@@ -1,0 +1,104 @@
+body
+{
+	background-color: #4682B4;
+}
+
+.blockentete
+{
+	background-color:grey;
+	margin-left: 20%;
+	margin-top: 5%;
+	height: 150px; width: 1000px;
+	color : #842E1B;
+	text-align:center;
+	font-family:tahoma;
+}
+
+.blockentredeux
+{
+	background-color: white;
+	margin-left: 20%;
+	height: 20px; width: 1000px;
+}
+
+.blocklanguages
+{
+	background-color: #842E1B;
+	margin-left: 20%;
+	height: 35px; width: 1000px;
+	color : #FFFFFF;
+	text-align:center;
+	font-family:tahoma;
+}
+
+#langue
+{
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+.blockprincipale
+{
+	background-color: white;
+	margin-left: 20%;
+	font-family:tahoma;
+	height: 660px; width: 1000px;
+}
+
+.block1
+{
+	margin-left: 8%;
+	float: left;
+	height: 660px; width: 200px;
+	text-align: center;
+}
+
+.block2
+{
+	float: left;
+	margin-left: 6%;
+	height: 660px; width: 550px;
+	text-align: left;
+	border-left: 1px dotted black;
+	padding-left: 40px;
+	text-align: just
+}
+	
+#java
+{
+	float: left;
+	box-shadow: 1px 1px 12px #555;
+	margin: 25px;
+}
+
+.blockenbas
+{
+	background-color: #842E1B;
+	margin-left: 20%;
+	height: 150px; width: 1000px;
+	margin-bottom: 10%;
+}
+
+#col1
+{
+	margin-top: 0px;
+}
+
+#lien
+{
+	color: #FFFF;
+}
+
+.colonnes
+{
+	font-family:tahoma;
+	padding-left: 80px;
+	-webkit-column-count: 3;
+	-moz-column-count: 3;
+	-webkit-column-gap: 2px;
+	-moz-column-gap: 2px;
+	padding-top: 20px;
+	color : #FFFFFF;
+}
+
+
